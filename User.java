@@ -6,4 +6,5 @@ public class User{
     private Integer age;//b1分支中添加年龄
     private String address;//b1分支中添加家庭住址
     private String phoneNo;//b1分支中添加电话号码
+    private String updateUser;//在fix分支中新增更新人
 }
